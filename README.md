@@ -1,6 +1,7 @@
 ## ✨ Introduction
 
-I'm Rafli Andhika Al-Bukhari, Mostly known by the name "Andhika". Currently a Front-End Developer mostly working on side projects
+I'm Rafli Andhika Al-Bukhari, Mostly known by the name "Andhika". <br />
+Currently a Front-End Developer mostly working on side projects
 
 <!-- <div align="center"> -->
 ## 📦 Tech Stacks
